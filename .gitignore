@@ -1,0 +1,19 @@
+# Go
+/bin/
+/obj/
+*.exe
+*.exe~
+*.out
+*.test
+*.dll
+
+# Environment variables
+.env
+
+# Docker
+**/pgdata/
+*.log
+
+# IDEs
+.vscode/
+.idea/
